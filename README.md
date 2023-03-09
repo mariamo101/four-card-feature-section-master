@@ -25,7 +25,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: (https://www.figma.com/file/u1a0fswmCUtnmhKViSvwGq/four-card-feature-section?node-id=0-1&t=BLySdl2iLJNclIuj-0)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://sprightly-entremet-6fc565.netlify.app/)
 
 
 ### Built with
