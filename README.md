@@ -19,7 +19,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Gif
 
-<link href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBhNjU5YzQwYjhjMDQ1MWZkZGQ0ZGIyMzEwYzU3ZmVjYzFkMWFkMiZjdD1n/PMw5ZW3FUaYpjjLmlq/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBhNjU5YzQwYjhjMDQ1MWZkZGQ0ZGIyMzEwYzU3ZmVjYzFkMWFkMiZjdD1n/PMw5ZW3FUaYpjjLmlq/giphy.gif"/>
 
 
 ### Links
